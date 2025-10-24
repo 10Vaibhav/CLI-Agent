@@ -45,9 +45,7 @@ CLI Agent is a conversational AI assistant powered by chain-of-thought reasoning
 4. **Iterate**: Continue the conversation to refine and expand
 
 ## License
-
-This project is licensed under the terms specified in the LICENSE file.
-
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Support
 
