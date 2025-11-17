@@ -65,9 +65,7 @@ CLI AI Voice Agent is a voice-enabled conversational AI assistant powered by cha
 - **Async Audio**: Non-blocking audio playback for smooth interaction
 
 ## License
-
-This project is licensed under the terms specified in the LICENSE file.
-
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Support
 
